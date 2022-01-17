@@ -12,7 +12,9 @@ I like to write a [wiki](https://ayushnix.com) to learn and remember the things 
 
 [These](https://github.com/ayushnix/dotfiles) are the dotfiles for my hardware devices.
 
-## Identity Information
+## Keys :key:
+
+### Code Signing
 
 You can get my signify public keys on
 [GitHub](https://raw.githubusercontent.com/ayushnix/ayushnix/master/ayushnix-signify.pub) and by
