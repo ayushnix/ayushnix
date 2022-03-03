@@ -1,4 +1,4 @@
-## Who am I?
+## About Me
 
 Hi! I'm Ayush. I'm a Linux Systems Administrator and a DevOps enthusiast.
 
@@ -24,3 +24,5 @@ using
 $ dig TXT signify.ayushnix.com +short | cut -d '"' -f 2
 RWTOzC8OW0l2VmPS6SWB6huDGm/rX4HYdpRyFHXX9F8M18zfJUppywsB
 ```
+
+`You talk of times of peace for all, and then prepare for war.`
