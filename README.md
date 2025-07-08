@@ -1,43 +1,13 @@
 ## About Me
 
-Hi! I'm Ayush. I'm a Linux Systems Administrator and a DevOps enthusiast.
+Hi! I'm Ayush. I'm a Linux Systems Administrator.
 
-I write my thoughts in my [microblog][1].
+I write random thoughts on my [Fediverse MicroBlog][1]. I run a [Gemini Protocol][2] (no, not the Google AI bullshit) which acts as a frugal website. You can view it using a browser that supports the Gemini Protocol, such as [Lagrange][3] or [Kristall][4]. My Gemini capsule is available at [gemini://ayushnix.com][5].
 
-I've started using [SourceHut][2] as my primary git forge and [Codeberg][3] as my primary mirror.
-I'll keep using GitHub as another mirror for now.
+I've stopped using GitHub to create and manage new projects, although I'll keep using it to contribute to projects on GitHub I care about.
 
-## Keys :key:
-
-### Sign
-
-My [OpenBSD signify][4]/[minisign][5] public key is
-
-```
-RWTOzC8OW0l2VmPS6SWB6huDGm/rX4HYdpRyFHXX9F8M18zfJUppywsB
-```
-
-I use this key to sign releases. You can also find [this key file][6] on GitHub. It's also available
-as as DNS TXT record.
-
-```
-$ dig TXT signify.ayushnix.com +short | sed 's/"//g'
-RWTOzC8OW0l2VmPS6SWB6huDGm/rX4HYdpRyFHXX9F8M18zfJUppywsB
-```
-
-### Encrypt
-
-You can send me encrypted files or messages using my [age][7] public key. My email address is
-available on my git commits.
-
-```
-age1dqhwu9r2wryc3j7kvpnrhg20jytts3vuzn9fyz7ku66m6tgpgfyscasmw5
-```
-
-[1]: https://microblog.ayushnix.com
-[2]: https://sr.ht/~ayushnix
-[3]: https://codeberg.org/ayushnix
-[4]: https://github.com/aperezdc/signify
-[5]: https://jedisct1.github.io/minisign/
-[6]: https://raw.githubusercontent.com/ayushnix/ayushnix/master/ayushnix-signify.pub
-[7]: https://github.com/FiloSottile/age
+[1]: https://social.ayushnix.com/@ayushnix
+[2]: https://geminiprotocol.net/
+[3]: https://git.skyjake.fi/gemini/lagrange
+[4]: https://kristall.random-projects.net/
+[5]: gemini://ayushnix.com
